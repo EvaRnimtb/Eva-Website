@@ -1,0 +1,35 @@
+.portfolio-img {
+    width: 200px; /* Adjust width as needed */
+    height: 150px; /* Adjust height as needed */
+    display: block;
+    margin-bottom: 20px; /* Add some space between images */
+}
+
+/* Style the anchor tag */
+.portfolio-link {
+    display: inline-block; /* Display as inline-block */
+    margin: 0; /* Reset margin */
+    padding: 0; /* Reset padding */
+    text-decoration: none; /* Remove underline from the link */
+}
+
+header nav {
+    display: flex;
+    align-items: center; /* Vertically center items */
+  }
+  
+  header nav img {
+    margin-right: 10px; /* Add some space between the image and the list */
+  }
+  
+  header nav ul {
+    list-style-type: none; /* Remove bullet points from list */
+    margin: 0;
+    padding: 0;
+    display: flex; /* Make the list items appear horizontally */
+  }
+  
+  header nav ul li {
+    margin-right: 20px; /* Add some space between list items */
+  }
+  
